@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohttp-demos/commit/7e2600701a2dcce81863ceac85d7756e02436e1c",
       "git:hexsha": "7e2600701a2dcce81863ceac85d7756e02436e1c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T00:14:08.142134+00:00"
     }
   ]
 }
